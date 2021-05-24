@@ -49,6 +49,16 @@ thead {
     color: white;
 }
 
+.colonna1, .colonna2 {
+    width: 25%;
+    text-align: left;
+}
+
+.colonna3 {
+    width: 50%;
+    text-align: left;
+}
+
 .dispari {
     background-color: lightskyblue;
 }
