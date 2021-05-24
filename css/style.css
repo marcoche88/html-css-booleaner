@@ -23,3 +23,7 @@ h1 {
 .data  {
     font-size: 11px;
 }
+
+figcaption {
+    font-size: 11px;
+}
