@@ -1,3 +1,5 @@
+/* header */
+
 header {
     background-color:rgb(92, 134, 226);
     background-image: url("../img/pattern.png");
@@ -6,4 +8,18 @@ header {
 
 .logo {
     height: 50px;
+}
+
+/* main */
+
+h1 {
+ font-size: 30px;
+}
+
+#autore {
+   color:rgb(92, 134, 226); 
+}
+
+.data  {
+    font-size: 11px;
 }
