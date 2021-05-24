@@ -13,6 +13,7 @@ header {
 
 .logo {
     height: 50px;
+    margin: 110px 0 0 10px;
 }
 
 /* main */
@@ -28,6 +29,7 @@ h1 {
 
 .data  {
     font-size: 11px;
+    margin-bottom: 15px;
 }
 
 figcaption {
@@ -38,6 +40,10 @@ figcaption {
     background-color: yellow;
 }
 
+table {
+    border-collapse: collapse;
+}
+
 thead {
     background-color: rgb(64, 120, 224);
     color: white;
@@ -45,4 +51,28 @@ thead {
 
 .dispari {
     background-color: lightskyblue;
+}
+
+/* footer */
+
+h4 {
+    color: grey;
+}
+
+.foto-finali {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.monitor {
+    background-image: url("../img/monitor.jpg");
+}
+
+.graph  {
+    background-image: url("../img/graph.jpg");
 }
